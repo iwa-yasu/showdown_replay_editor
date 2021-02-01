@@ -1,4 +1,3 @@
-
 window.exports = window;
 
 function linkStyle(url) {
